@@ -1,0 +1,9 @@
+hotel,customer_type,customer_count
+"Resort Hotel",Transient,44054
+"Resort Hotel",Contract,2531
+"Resort Hotel",Transient-Party,11053
+"Resort Hotel",Group,358
+"City Hotel",Transient,45812
+"City Hotel",Transient-Party,14166
+"City Hotel",Contract,2275
+"City Hotel",Group,221
