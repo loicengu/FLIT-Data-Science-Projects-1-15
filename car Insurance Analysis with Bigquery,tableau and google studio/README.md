@@ -1,4 +1,4 @@
-### Car Insurance Dashboard
+# Car Insurance Dashboard
 ## Overview
 
 The Car Insurance Dashboard provides insights and analytics related to  car insurance operations. It offers visualizations and key metrics to monitor policy issuance, premium revenue, claims processing, and customer satisfaction.
