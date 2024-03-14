@@ -27,5 +27,7 @@ Visualization Tool: Looker and tableau
 Database: Bigquery
 Programming Languages: SQL
 
+Author : Loice Nguku
+
 License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+This project is licensed under the MIT.
